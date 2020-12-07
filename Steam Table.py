@@ -1,6 +1,4 @@
 
-#SWADHA KUMARI
-#2019UCH1501
 
 import math
 
